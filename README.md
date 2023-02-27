@@ -1,0 +1,1 @@
+This app is a simple laravel based app to let users post short "chirps" back in forth. Each chirp can be a max of 255 characters.
